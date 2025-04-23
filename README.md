@@ -1,2 +1,2 @@
 # create_token
-create token easily
+create token with python easily
